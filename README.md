@@ -35,6 +35,3 @@ Get the token key and keep it secret by putting it in an env
 This is just an example you can do more stuufs like this
 
 ---
-
-Screenshot
-
